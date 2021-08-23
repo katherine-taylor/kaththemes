@@ -1,0 +1,14 @@
+Package: kaththemes
+Type: Package
+Title: Custom ggplot2 themes for Katherine Taylor
+Version: 0.1.0
+Author: Katherine Taylor
+Maintainer: Katherine Taylor <katherinetaylor317@gmail.com>
+Description: A personal package that contains a custom palette and ggplot theme.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    ggplot2,
+    systemfonts
+RoxygenNote: 7.1.1
